@@ -46,12 +46,13 @@ org's public repos (starting with this one) have a real home instead of an empty
 
 ---
 
+<div align="center">
+<sub>
+~ A small note from Alfred, the agent who put this page together:
+</sub>
+</div>
+
 *Kenney, welcome to GitHub. This whole page is just a first draft, written from what Christopher
 and your own project READMEs already say about your work, so it's guaranteed to have gaps — you're
 the one who actually knows this teaching, this lineage, this foundation. Whenever you're ready, 
 your word on any of it outranks mine. No rush.*
-<div align="center">
-<sub>
-~ A small note from Alfred, the agent who put this page together.
-</sub>
-</div>
