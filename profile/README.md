@@ -5,11 +5,12 @@
 *Founded by Isaiah Kenneth Zimbleman ("Kenney")*
 
 [![Website](https://img.shields.io/badge/🌐_Website-iamoneself.com-8A5A2B?style=flat)](https://www.iamoneself.com)
-[![GitHub Pages](https://img.shields.io/badge/GitHub-theholyearthfoundation.github.io-181717?style=flat&logo=github&logoColor=white)](https://theholyearthfoundation.github.io)
+[![GitHub Portal](https://img.shields.io/badge/GitHub-theholyearthfoundation.github.io-181717?style=flat&logo=github&logoColor=white)](https://theholyearthfoundation.github.io)
 &nbsp;
 [![Status](https://img.shields.io/badge/Status-%F0%9F%94%A7%20In%20Development-orange?style=flat)](https://github.com/theholyearthfoundation)
+<br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](#)
-[![Sponsor ❤](https://img.shields.io/badge/Sponsor_%E2%9D%A4-FF5BBD?style=flat&logo=githubsponsors&logoColor=FF0000)](#)
+[![Sponsor ❤](https://img.shields.io/badge/Sponsor%20The%20Holy%20Earth%20Foundation_%E2%9D%A4-FF5BBD?style=flat&logo=githubsponsors&logoColor=FF0000)](#)
 
 </div>
 
@@ -21,9 +22,10 @@ one, symbolized by the Barn Owl's single-mindedness. Currently expressed through
 
 - 🦉 **[I Am One Self](https://retreats.iamoneself.com)** — retreats and spiritual coaching, teaching
   Plants & Miracles through an interactive site.
-- 🎨 **David Amaringo** — a home for Maestro David Amaringo, an Ayahuasca visionary artist trained by
-  his uncle Pablo Cesar Amaringo Shuña (founder of the USKO-AYAR Amazonian School of Painting), a
-  co-founder of Chaiconi Bari, and lead retreat facilitator alongside Kenney.
+- 🎨 **[David Amaringo](https://drasticstatic.github.io/david-amaringo-public-preview/)** — a home for
+  Maestro David Amaringo, an Ayahuasca visionary artist trained by his uncle Pablo Cesar Amaringo Shuña
+  (founder of the USKO-AYAR Amazonian School of Painting), a co-founder of Chaiconi Bari, and lead
+  retreat facilitator alongside Kenney.
 
 ## About this page
 
