@@ -52,7 +52,7 @@ org's public repos (starting with this one) have a real home instead of an empty
 </sub>
 </div>
 <br>
-Kenney,<br>
+Kenney,
 <em>Welcome to GitHub. What you see here so far is gathered from what Christopher and your own project
 READMEs already say about the work, so it's guaranteed to have gaps — you're the one who actually
 knows this teaching, this lineage, and the foundation — whenever you're ready, I am eager to
