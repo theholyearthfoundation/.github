@@ -4,7 +4,8 @@
 
 *Founded by Isaiah Kenneth Zimbleman ("Kenney")*
 
-[![Website](https://img.shields.io/badge/🌐_Website-iamoneself.com-8A5A2B?style=flat)](https://www.iamoneself.com)
+[![Home](https://img.shields.io/badge/🌐_Home-iamoneself.com-purple?style=flat)](https://www.iamoneself.com)
+[![Retreats](https://img.shields.io/badge/🌐_Retreat%20Portal-retreats.iamoneself.com-8A5A2B?style=flat)](https://retreats.iamoneself.com)
 [![GitHub Portal](https://img.shields.io/badge/GitHub-theholyearthfoundation.github.io-181717?style=flat&logo=github&logoColor=white)](https://theholyearthfoundation.github.io)
 &nbsp;
 [![Status](https://img.shields.io/badge/Status-%F0%9F%94%A7%20In%20Development-orange?style=flat)](https://github.com/theholyearthfoundation)
@@ -20,8 +21,10 @@
 traditions** (The Condor) in a teaching called **Plants & Miracles** — where the two come together as
 one, symbolized by the Barn Owl's single-mindedness. Currently expressed through two projects:
 
-- 🦉 **[I Am One Self](https://retreats.iamoneself.com)** — retreats and spiritual coaching, teaching
-  Plants & Miracles through an interactive site.
+- 🦉 **[I Am One Self](https://www.iamoneself.com/about-the-speaker)** — Kenney's teaching, background,
+  and the Plants & Miracles philosophy.
+- 🦋 **[I Am One Self Retreats](https://retreats.iamoneself.com)** — retreats and spiritual coaching,
+  teaching Plants & Miracles through an interactive site.
 - 🎨 **[David Amaringo](https://drasticstatic.github.io/david-amaringo-public-preview/)** — a home for
   Maestro David Amaringo, an Ayahuasca visionary artist trained by his uncle Pablo Cesar Amaringo Shuña
   (founder of the USKO-AYAR Amazonian School of Painting), a co-founder of Chaiconi Bari, and lead
@@ -35,9 +38,10 @@ org's public repos (starting with this one) have a real home instead of an empty
 
 ## 🔗 Explore
 
-- [🦉 I Am One Self — public preview →](https://retreats.iamoneself.com)
-- [🎨 David Amaringo — public preview →](https://drasticstatic.github.io/david-amaringo-public-preview/)
 - [🏠 Org root page →](https://theholyearthfoundation.github.io)
+- [🦉 I Am One Self.com →](https://www.iamoneself.com)
+- [🦋 I Am One Self Retreats — public preview →](https://drasticstatic.github.io/iamoneself-public-preview/)
+- [🎨 David Amaringo — public preview →](https://drasticstatic.github.io/david-amaringo-public-preview/)
 
 ## 🤝 Community health
 
