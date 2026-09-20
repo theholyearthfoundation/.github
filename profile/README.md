@@ -2,28 +2,42 @@
 
 # 🌎 The Holy Earth Foundation
 
-*Founded by Isiah Kenneth Zimbleman ("Kenney")*
+*Founded by Isaiah Kenneth Zimbleman ("Kenney")*
+
+[![Website](https://img.shields.io/badge/🌐_Website-iamoneself.com-8A5A2B?style=flat)](https://www.iamoneself.com)
+[![GitHub Pages](https://img.shields.io/badge/GitHub-theholyearthfoundation.github.io-181717?style=flat&logo=github&logoColor=white)](https://theholyearthfoundation.github.io)
+&nbsp;
+[![Status](https://img.shields.io/badge/Status-%F0%9F%94%A7%20In%20Development-orange?style=flat)](https://github.com/theholyearthfoundation)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](#)
+[![Sponsor ❤](https://img.shields.io/badge/Sponsor_%E2%9D%A4-FF5BBD?style=flat&logo=githubsponsors&logoColor=FF0000)](#)
 
 </div>
 
 ---
 
-The Holy Earth Foundation supports spiritual and healing work rooted in *A Course in Miracles* and in
-relationship with Amazonian plant-medicine traditions — currently expressed through two projects:
+🦅🦉🦋 The Holy Earth Foundation bridges **A Course in Miracles** (The Eagle) with **Plant Medicine
+traditions** (The Condor) in a teaching called **Plants & Miracles** — where the two come together as
+one, symbolized by the Barn Owl's single-mindedness. Currently expressed through two projects:
 
-- **[I Am One Self](https://www.iamoneself.com)** — a retreat and coaching site grounded in ACIM
-  teaching.
-- **David Amaringo** — a home for Maestro David Amaringo, an Ayahuasca visionary artist trained by
-  his uncle Pablo Cesar Amaringo Shuña (founder of the USKO-AYAR Amazonian School of Painting) and a
-  co-founder of Chaiconi Bari.
+- 🦉 **[I Am One Self](https://retreats.iamoneself.com)** — retreats and spiritual coaching, teaching
+  Plants & Miracles through an interactive site.
+- 🎨 **David Amaringo** — a home for Maestro David Amaringo, an Ayahuasca visionary artist trained by
+  his uncle Pablo Cesar Amaringo Shuña (founder of the USKO-AYAR Amazonian School of Painting), a
+  co-founder of Chaiconi Bari, and lead retreat facilitator alongside Kenney.
 
 ## About this page
 
 This organization's GitHub presence, and its formal incorporation, are both still coming together —
 this profile is an honest early draft, not a finished institutional page. It exists now mainly so the
-org's public repos (starting with this one) have a real home instead of an empty search result.
+org's public repos (starting with this one) have a real home instead of an empty search result. 🌱
 
-## Community health
+## 🔗 Explore
+
+- [🦉 I Am One Self — public preview →](https://retreats.iamoneself.com)
+- [🎨 David Amaringo — public preview →](https://drasticstatic.github.io/david-amaringo-public-preview/)
+- [🏠 Org root page →](https://theholyearthfoundation.github.io)
+
+## 🤝 Community health
 
 - [`CONTRIBUTING.md`](https://github.com/theholyearthfoundation/.github/blob/main/CONTRIBUTING.md)
 - [`SECURITY.md`](https://github.com/theholyearthfoundation/.github/blob/main/SECURITY.md)
