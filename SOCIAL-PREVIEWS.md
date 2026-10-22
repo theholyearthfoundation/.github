@@ -5,7 +5,7 @@ preview card (title, description and a share image) that it fetched **once** and
 After a share image or title changes, old previews keep showing until each app is told to look again.
 This file lists how to do that for each app, and which pages have their own tailored share image.
 
-*Generated 2026-10-13 by the arrival kit's `social/social-previews.mjs` (canonical copy in
+*Generated 2026-10-22 by the arrival kit's `social/social-previews.mjs` (canonical copy in
 [my-template](https://github.com/drasticstatic/my-template/tree/main/changelog-template/arrival/social)).
 Re-run it after deploys that add pages or change share images.*
 
@@ -28,7 +28,7 @@ Facebook for the pages listed below. Use the `?v=2` suffix anywhere else.
 
 ## 🖼️ Share-image ledger
 
-29 pages checked: **27 tailored**, 2 using the default card,
+32 pages checked: **30 tailored**, 2 using the default card,
 0 with no share image.
 
 ### ✨ Pages with their own tailored share image
@@ -36,7 +36,9 @@ Facebook for the pages listed below. Use the `?v=2` suffix anywhere else.
 | Page | Title | Share image |
 |---|---|---|
 | [theholyearthfoundation.github.io/donate/](https://theholyearthfoundation.github.io/donate/) | Donate — The Holy Earth Foundation on GitHub | [image](https://theholyearthfoundation.github.io/changelog-astro-public/og/page/donate.jpg) |
+| [theholyearthfoundation.github.io/pledge/](https://theholyearthfoundation.github.io/pledge/) | A pledge of support — The Holy Earth Foundation on GitHub | [image](https://theholyearthfoundation.github.io/changelog-astro-public/og/page/pledge.jpg) |
 | [theholyearthfoundation.github.io/map/](https://theholyearthfoundation.github.io/map/) | Map — The Holy Earth Foundation on GitHub | [image](https://theholyearthfoundation.github.io/changelog-astro-public/og/page/map.jpg) |
+| [theholyearthfoundation.github.io/plants-and-miracles/](https://theholyearthfoundation.github.io/plants-and-miracles/) | Plants & Miracles — Flight of the Eagle and the Condor | [image](https://theholyearthfoundation.github.io/plants-and-miracles/plants-and-miracles-card.jpg) |
 | [theholyearthfoundation.github.io/changelog-astro-public/changelog](https://theholyearthfoundation.github.io/changelog-astro-public/changelog) | Changelog | [image](https://theholyearthfoundation.github.io/changelog-astro-public/og/page/changelog.jpg) |
 | [theholyearthfoundation.github.io/changelog-astro-public/library](https://theholyearthfoundation.github.io/changelog-astro-public/library) | Library | [image](https://theholyearthfoundation.github.io/changelog-astro-public/og/page/library.jpg) |
 | [theholyearthfoundation.github.io/changelog-astro-public/teachings](https://theholyearthfoundation.github.io/changelog-astro-public/teachings) | Teachings — The Holy Earth Foundation | [image](https://theholyearthfoundation.github.io/plants-and-miracles/plants-and-miracles-card.jpg) |
@@ -44,6 +46,7 @@ Facebook for the pages listed below. Use the `?v=2` suffix anywhere else.
 | [theholyearthfoundation.github.io/changelog-astro-public/changelog/iamoneself](https://theholyearthfoundation.github.io/changelog-astro-public/changelog/iamoneself) | I Am One Self — Changelog | [image](https://theholyearthfoundation.github.io/changelog-astro-public/og/page/changelog.jpg) |
 | [theholyearthfoundation.github.io/changelog-astro-public/changelog/david-amaringo](https://theholyearthfoundation.github.io/changelog-astro-public/changelog/david-amaringo) | David Amaringo — Changelog | [image](https://theholyearthfoundation.github.io/changelog-astro-public/og/page/changelog.jpg) |
 | [theholyearthfoundation.github.io/changelog-astro-public/changelog/foundation](https://theholyearthfoundation.github.io/changelog-astro-public/changelog/foundation) | The Foundation's GitHub home — Changelog | [image](https://theholyearthfoundation.github.io/changelog-astro-public/og/page/changelog.jpg) |
+| [theholyearthfoundation.github.io/changelog-astro-public/changelog/foundation/2026-10-22-kenneys-own-contacts-a-pledge-and-a-call-for-love](https://theholyearthfoundation.github.io/changelog-astro-public/changelog/foundation/2026-10-22-kenneys-own-contacts-a-pledge-and-a-call-for-love) | Kenney's own contacts, a pledge of support, and David's story told as a call for love — Changelog | [image](https://theholyearthfoundation.github.io/changelog-astro-public/og/changelog/foundation/2026-10-22-kenneys-own-contacts-a-pledge-and-a-call-for-love.jpg) |
 | [theholyearthfoundation.github.io/changelog-astro-public/changelog/foundation/2026-10-13-a-navbar-a-map-and-one-window-for-every-way-in](https://theholyearthfoundation.github.io/changelog-astro-public/changelog/foundation/2026-10-13-a-navbar-a-map-and-one-window-for-every-way-in) | A navbar on every page, a map with pictures, and one window for every way to reach Kenney — Changelog | [image](https://theholyearthfoundation.github.io/changelog-astro-public/og/changelog/foundation/2026-10-13-a-navbar-a-map-and-one-window-for-every-way-in.jpg) |
 | [theholyearthfoundation.github.io/changelog-astro-public/changelog/foundation/2026-10-12-choose-how-you-arrive](https://theholyearthfoundation.github.io/changelog-astro-public/changelog/foundation/2026-10-12-choose-how-you-arrive) | Choose how you arrive: a welcome guide, one search for everything, and a twin vine that follows you — Changelog | [image](https://theholyearthfoundation.github.io/changelog-astro-public/og/changelog/foundation/2026-10-12-choose-how-you-arrive.jpg) |
 | [theholyearthfoundation.github.io/changelog-astro-public/changelog/foundation/2026-10-12-plants-and-miracles-flyer-becomes-living-pages](https://theholyearthfoundation.github.io/changelog-astro-public/changelog/foundation/2026-10-12-plants-and-miracles-flyer-becomes-living-pages) | Kenney's Plants & Miracles flyer now lives in the library: one link instead of a PDF — Changelog | [image](https://theholyearthfoundation.github.io/changelog-astro-public/og/changelog/foundation/2026-10-12-plants-and-miracles-flyer-becomes-living-pages.jpg) |
@@ -73,7 +76,9 @@ Facebook for the pages listed below. Use the `?v=2` suffix anywhere else.
 ```
 https://theholyearthfoundation.github.io/
 https://theholyearthfoundation.github.io/donate/
+https://theholyearthfoundation.github.io/pledge/
 https://theholyearthfoundation.github.io/map/
+https://theholyearthfoundation.github.io/plants-and-miracles/
 https://theholyearthfoundation.github.io/changelog-astro-public/
 https://theholyearthfoundation.github.io/changelog-astro-public/changelog
 https://theholyearthfoundation.github.io/changelog-astro-public/library
@@ -82,6 +87,7 @@ https://theholyearthfoundation.github.io/changelog-astro-public/ledger
 https://theholyearthfoundation.github.io/changelog-astro-public/changelog/iamoneself
 https://theholyearthfoundation.github.io/changelog-astro-public/changelog/david-amaringo
 https://theholyearthfoundation.github.io/changelog-astro-public/changelog/foundation
+https://theholyearthfoundation.github.io/changelog-astro-public/changelog/foundation/2026-10-22-kenneys-own-contacts-a-pledge-and-a-call-for-love
 https://theholyearthfoundation.github.io/changelog-astro-public/changelog/foundation/2026-10-13-a-navbar-a-map-and-one-window-for-every-way-in
 https://theholyearthfoundation.github.io/changelog-astro-public/changelog/foundation/2026-10-12-choose-how-you-arrive
 https://theholyearthfoundation.github.io/changelog-astro-public/changelog/foundation/2026-10-12-plants-and-miracles-flyer-becomes-living-pages
