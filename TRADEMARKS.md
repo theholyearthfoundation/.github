@@ -25,9 +25,12 @@ plant medicine traditions) and the Owl between them (the two held as one): the P
 teaching, drawn small when the foundation's GitHub portal began. It never stands in front of the
 heart. It marks the places where the work is made:
 
-- the members' edition of the profile, beside its notice;
+- the members' edition of the profile: small beside its notice, and large and faint as the watermark over
+  the members' welcome;
 - the browser tabs of the lab and rehearsal sites, so a builder always knows which version is open;
 - the "how this was made" corners: credits, changelogs, notes for helpers.
 
-The file is [`profile/assets/builders-mark.svg`](profile/assets/builders-mark.svg). Both marks
+The file is [`profile/assets/builders-mark.svg`](profile/assets/builders-mark.svg); the watermark is the same
+drawing, unaltered, large and faint in a soft golden halo
+([light](profile/assets/builders-watermark-light.svg), [dark](profile/assets/builders-watermark-dark.svg)). Both marks
 belong to the foundation, and everything above applies to both.
