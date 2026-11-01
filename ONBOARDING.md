@@ -9,6 +9,12 @@ like.
 
 Every change rehearses before it goes live, so nothing you try can break anything.
 
+**New to GitHub, or want the whole road at a glance?** Page through the
+[welcome deck](https://github.com/theholyearthfoundation/.github/blob/main/decks/welcome.marp.pdf) (seven stops, about
+ten minutes; also as [slides](decks/welcome.marp.html) and [markdown](decks/welcome.marp.md) for your helper). The
+step-by-step version is the procedure **SOP-COM-001 *New to GitHub: your first hour***, which members read in the
+[reading room](https://github.com/theholyearthfoundation/reading-room/blob/main/procedures/COM/SOP-COM-001-new-to-github-your-first-hour.md).
+
 | | Step | How |
 |---|---|---|
 | 🚪 | **Accept the invitation** | The email from GitHub, or the notification on github.com, then **Join** |

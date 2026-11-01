@@ -21,6 +21,15 @@ pull request.
 3. Fork the repository, keep your branch focused on one change, and explain *why* in the commit
    message, not just what changed.
 
+## Commit messages
+
+Start each commit subject with **one gitmoji and a type**, then a plain-words subject:
+`:memo: docs(proposal): the Spanish welcome gains a picture of how a correction travels`. The twelve gitmoji we use,
+and why we write the `:alias:` form, are in
+[`my-template/GITMOJI.md`](https://github.com/drasticstatic/my-template/blob/main/GITMOJI.md). AI helpers also end
+each commit with their two credit lines (`Co-Authored-By:` and the session line), so the history says who did what.
+Pull requests are merged with a **merge commit, never a squash**, so every one of those lines survives.
+
 ## Reporting problems
 
 For security issues, see [`SECURITY.md`](./SECURITY.md) instead of a public issue. For anything
