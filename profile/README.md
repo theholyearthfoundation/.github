@@ -56,6 +56,19 @@ org's public repos (starting with this one) have a real home instead of an empty
 - 🕰️ **The first lab versions, kept as they were** (each one's note steps forward to today):
   [I Am One Self](https://drasticstatic.github.io/iamoneself-public-preview/) · [David Amaringo](https://drasticstatic.github.io/david-amaringo-public-preview/).
 
+## 📖 Proposals, procedures and decks
+
+- [📖 The reading room →](https://theholyearthfoundation.github.io/reading-room-public/): the
+  proposals, procedures and decks the foundation is ready to show, each as a page and a PDF.
+- [🧭 Procedures →](https://github.com/theholyearthfoundation/ops-standard-operating-procedures-public):
+  the public twin of the foundation's standard operating procedures, *this is how we do it now*.
+- [🎞️ Decks →](https://github.com/theholyearthfoundation/.github/tree/main/decks): start with
+  [Welcome to The Holy Earth Foundation](https://github.com/theholyearthfoundation/.github/blob/main/decks/welcome.marp.pdf),
+  a first walk for a newcomer and their AI helper.
+- 🔐 **Members**, signed in: [`reading-room`](https://github.com/theholyearthfoundation/reading-room),
+  [`proposals`](https://github.com/theholyearthfoundation/proposals) and
+  [`ops-standard-operating-procedures`](https://github.com/theholyearthfoundation/ops-standard-operating-procedures).
+
 ## 🤝 Community health
 
 - [`ONBOARDING.md`](https://github.com/theholyearthfoundation/.github/blob/main/ONBOARDING.md): **joined the organization? start here**: two-factor login, connecting your AI helper, and how we work
